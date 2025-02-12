@@ -1,4 +1,4 @@
-git remote add origin https://github.com/YOUR_GITHUB_USERNAME/Homework.git
-git branch -M main
-git push -u origin main
-
+Title: "Homework1"
+Email: "jkhouri27@jcu.edu"
+Description: "Web Programming homework"
+Base URL: "https://github.com/JosephKhouri/Homework1/edit/main/config.yml" 
